@@ -7,5 +7,5 @@ class Hotel:
         }
 
         preco_total = precos[quarto] * pessoas
-        print(f"Quarto {quarto} reservado para {pessoas} pessoas")
+        print(f"Quarto {quarto} reservado para {pessoas} pessoas.")
         return preco_total

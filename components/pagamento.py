@@ -1,8 +1,3 @@
-"""
-0.90 10%
-0.95 5%d
-1.039 acrescimo
-"""
 class Pagamento:
     def processar_pagamento(self, valor: float, pagamento: str) -> float:
         descontos = {

@@ -6,6 +6,6 @@ class PassagemArea:
             "primeira_classe": 500 * 4
         }
 
-        print(f"Assento: {assento} na classe {classe_voo} reservado")
+        print(f"Assento: {assento} na classe {classe_voo} reservado!")
         return precos[classe_voo]
 
